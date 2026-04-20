@@ -5,7 +5,7 @@
 * **Systems Engineer:** 👨‍💻 Based in Peru, focused on continuous improvement and scalable architecture.
 * **Education:** 🎓 Currently a Systems Engineering student at **UPC**.
 * **Mindset:** 🚀 I prefer complex, high-impact problems over simple tasks—if it's challenging and interesting, I’m in.
-* **Language:** 🌎 Working through **B2** to collaborate on global projects.
+* **Language:** 🌎 Working my way to B2 level to collaborate on global projects.
 
 ---
 
